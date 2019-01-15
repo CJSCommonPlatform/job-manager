@@ -39,8 +39,8 @@
         <common-bom.version>1.28.0</common-bom.version>
         <test-utils.version>1.18.1</test-utils.version>
         <utilities.version>1.16.1</utilities.version>
-        <framework.version>5.0.4</framework.version>
-        <event-store.version>1.0.4</event-store.version>
+        <framework.version>5.0.6</framework.version>
+        <event-store.version>1.0.8</event-store.version>
     </properties>
 
     <build>
